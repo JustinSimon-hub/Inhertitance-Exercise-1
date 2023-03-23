@@ -1,0 +1,15 @@
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/bin/Debug/net6.0/Inheritance
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/refint/Inheritance.dll
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
+/Users/justinsimon/Desktop/repos/repos/InheritanceExercise/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll
