@@ -6,10 +6,44 @@ namespace Inheritance
 		public Animal()
 		{
 		}
-		public int NumLegs {get; set;}
-		public bool HasFur {get; set;}
-		public string NoiseMakes {get; set;}
-		public string CarnivOrHerbiv {get; set;}
+
+//Creating properties using the private encapsulation method
+		private string canBreath;
+		public string CanBreath 
+		{ 	
+				get {return canBreath;}
+				set {canBreath = value;}
+		}
+		private string canDie;
+		public string CanDie
+		{
+			get {return canDie; }
+			set{canDie = value;}
+		}
+
+		private string hasSex;
+		public string HasSex
+		{
+			get{return hasSex;}
+			set{hasSex = value;}
+		}
+
+		private string canAdapt;
+		public string CanAdapt
+		{
+			get {return canAdapt;}
+			set {canAdapt = value;}
+		
+			
+		}
+
+
+
+
+
+
+
 	}
+
 }
 

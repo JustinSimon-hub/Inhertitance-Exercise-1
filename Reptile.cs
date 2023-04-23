@@ -6,10 +6,10 @@ namespace Inheritance
 		public Reptile()
 		{
 		}
-		public int NumOflegs{get; set;}
-		public string WhatitEats {get;set;}
-		public int AvgNumOfEggs {get;set;}
-		public bool RegensLimbs {get;set;}
+		public string SnakeDiet {get; set;}
+		public string SnakeScaleColor {get; set;}
+		public string SnakeSpecies {get; set;}
+		public bool IsSnakeColdBlooded {get; set;}
 	}
 }
 
